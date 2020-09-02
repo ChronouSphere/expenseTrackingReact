@@ -57,7 +57,7 @@ class AddExpenses extends React.Component {
                     <label htmlFor="amount">Amount</label>
                     <input type="number" value={this.state.amount} onChange={(e) => this.setAmount(e.target.value)} placeholder="Transaction Amount..." />
                 </div>
-                <button className="btn" onClick={this.handleAddNewTransactions}>Add transaction</button>
+                <button className="btn" onClick={this.handleAddNewTransactions}>ADD TRANSACTIONS</button>
             </div>
         );
     }

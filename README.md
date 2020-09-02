@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Installation
 Run `npm install` to install dependencies.
+Run `npm start` to run the app.
+Right Click > Inspect > Choose Mobile Screen Factor for Best View
 
 ## Available Scripts
 
