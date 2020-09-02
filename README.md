@@ -3,6 +3,9 @@ Expense Tracking App for MoneyLion's Interview Assignment Inspection
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+# Installation
+Run `npm install` to install dependencies.
+
 ## Available Scripts
 
 In the project directory, you can run:
